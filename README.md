@@ -2,12 +2,30 @@
 <img width="1512" alt="Screenshot 2024-06-30 at 12 50 37 at night" src="https://github.com/Smey09/video-player-with-flutter/assets/149933218/5ab682bc-35ce-4613-b6b0-4c174ac53332">
 
 ## 2. Feature
-- 1. Can please Video as Youtube
-  2. No ads
-  3. Respone
-  4. use Id real video from youtube to play...
+    - Can please Video as Youtube
+    - No ads
+    - Respone
+    - use Id real video from youtube to play...
+## 3. Technology and Package Support
+    ** Technoloy
+    -  Fluter + github + Json
+      flutter version 
+      • 3.22.1
+      • Dart 3.4.1 
+      • DevTools 2.34.3
+      
+    ** Package Support
+    ```
+      http: ^1.2.1
+      provider: ^6.1.2
+      curved_navigation_bar: ^1.0.3
+      flutter_image_slideshow: ^0.1.6
+      buttons_tabbar: ^1.3.10
+      youtube_player_flutter: ^9.0.1
+      intl: ^0.19.0
+    ```
 
-## 3. Installation
+## 4. Installation
 
 1. Clone the repository:
    ```bash
